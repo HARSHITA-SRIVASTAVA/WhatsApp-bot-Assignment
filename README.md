@@ -41,6 +41,9 @@ Use Postman:
 "message":"Hi"
 }
 
+#Deployment:
+This project is tested and working locally. Deployment attempt was made on Render and Railway but faced environment-related issues.
+
 AUTHOR:
 Harshita Srivastava
 
